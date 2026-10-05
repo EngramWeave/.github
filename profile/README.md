@@ -24,7 +24,7 @@ AI 编译，你定稿。面向长期学习与研究的个人知识编译系统�
 
 **LLM Wiki 路线：AI 全自动维护，你负责“拥有”。**
 
-把资料喂给 AI，它帮你编译成结构化的 Wiki，自动建立交叉引用、检测矛盾、更新过时内容。听起来很美——你几乎不用动手。但几个月后你发现：Wiki 里的内容你从未真正读过，AI 替你做了编辑判断，重要细节被丢弃而你毫不知情[reference:10]。更危险的是，Wiki 过时的方式和数据库不同——数据库的空白看起来像“不知道”，Wiki 的过时看起来像“自信的错误信息”，你根本不会怀疑。你拥有了一个知识库，但它里面的知识不属于你。
+把资料喂给 AI，它帮你编译成结构化的 Wiki，自动建立交叉引用、检测矛盾、更新过时内容。听起来很美——你几乎不用动手。但几个月后你发现：Wiki 里的内容你从未真正读过，AI 替你做了编辑判断，重要细节被丢弃而你毫不知情。更危险的是，Wiki 过时的方式和数据库不同——数据库的空白看起来像“不知道”，Wiki 的过时看起来像“自信的错误信息”，你根本不会怀疑。你拥有了一个知识库，但它里面的知识不属于你。
 
 ---
 
@@ -104,6 +104,6 @@ AI 整合规划：决定如何融入已有体系    ← 优先复用已有结构
 
 **如果这个项目对你有启发，欢迎 Star ⭐ 和参与共建。**
 
-[主仓库](https://github.com/EngramWeave/EngramWeave) · [设计方案](https://github.com/EngramWeave/EngramWeave/blob/main/个人知识编译系统总体设计方案.md) · [讨论](https://github.com/EngramWeave/EngramWeave/discussions)
+[主仓库](https://github.com/EngramWeave/EngramWeave) · [设计方案](./个人知识编译系统总体设计方案.md) · [讨论](https://github.com/EngramWeave/EngramWeave/discussions)
 
 </div>

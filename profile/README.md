@@ -10,7 +10,7 @@ AI 编译，你定稿。面向长期学习与研究的个人知识编译系统�
 [![Design](https://img.shields.io/badge/Design-Human--in--the--loop-7C3AED?style=flat-square)]()
 [![Obsidian](https://img.shields.io/badge/Obsidian-Compatible-7C3AED?style=flat-square&logo=obsidian)](https://obsidian.md)
 
-[主仓库](https://github.com/EngramWeave/EngramWeave) · [设计方案](./个人知识编译系统总体设计方案.md) · [讨论](https://github.com/EngramWeave/EngramWeave/discussions)
+[主仓库](https://github.com/EngramWeave/EngramWeave) · [设计方案](https://github.com/EngramWeave/engramweave-docs) · [讨论](https://github.com/EngramWeave/EngramWeave/discussions)
 
 </div>
 
@@ -20,7 +20,7 @@ AI 编译，你定稿。面向长期学习与研究的个人知识编译系统�
 
 **传统知识管理：收藏了，就等于学会了。**
 
-收藏了几百篇文章，真正消化过的不超过十篇。当时保存时明明有想法，过三个月再看——完全不记得当初为什么觉得它重要。原网页改了、删了、404 了，你连 AI 当时读了什么都说不清。知识库里新旧笔记彼此孤立，维护交叉引用和检查矛盾变成了兼职工作，成本随笔记数量增长而急剧上升。
+收藏了几百篇文章，真正消化过的不超过十篇。当时保存时明明有想法，过三个月再看——完全不记得当初为什么觉得它重要。原网页改了、删了、404 了，你连当时读了什么都说不清。知识库里新旧笔记彼此孤立，维护交叉引用和检查矛盾变成了兼职工作，成本随笔记数量增长而急剧上升。
 
 **LLM Wiki 路线：AI 全自动维护，你负责“拥有”。**
 
